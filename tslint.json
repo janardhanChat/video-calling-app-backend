@@ -2,10 +2,6 @@
     "extends" : "tslint:recommended",
     "defaultSeverity": "error",
     "rules" : {
-        "no-console" : {
-            "severity" : "warning",
-            "options" : ["log" , "error" , "info"]
-        },
         "max-line-length" : {
             "severity" : "warning",
             "options" : [120]
